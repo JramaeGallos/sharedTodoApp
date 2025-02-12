@@ -1,8 +1,6 @@
 # Todo App Project
 
 Author: Jramae A. Gallos
-Student Number: 202007620
-Section: C3L
 
 A Shared Todo Application with friends feature that connects to Firebase Console for persistence of data and authentication of users. A log in page will be rendered when the application started. For users with no existing accounts, they can sign up with their necessary information which will be validated before they can log in.
 The profile of the user will be shown once authenticated where he/she can add, edit and delete its list of todos. The user can also interact with other users in the appication by being friends with them. Friends can view and edit the todo of one where details when edited are shwon. They can also disconnect with one another by ufriending and send or accepts request with other users of the application. 
