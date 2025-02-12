@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "24091660400",
+    "project_id": "cmsc23-to-do-app-jagallos",
+    "storage_bucket": "cmsc23-to-do-app-jagallos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24091660400:android:e9a6f67be5a616fdeea4b5",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24091660400-vh42j8g1khk99m76ha4kfs16q87quunp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABU_x2HzakZaUOMU9jxj9y9wdS_onoag0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24091660400-vh42j8g1khk99m76ha4kfs16q87quunp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24091660400-pqa5kk8j5v0pbp07hf2as2s147edbv2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
